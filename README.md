@@ -9,6 +9,12 @@ This project aims to analyze sales data during the Diwali festival using Python.
 - Sales forecasting: The project utilizes time series analysis and forecasting models to predict future sales trends during the Diwali festival.
 - Customer segmentation: The dataset is analyzed to identify different customer segments based on their purchasing behavior, allowing for targeted marketing strategies.
 
+## Project Learnings
+- Performed data cleaning and manipulation
+- Performed exploratory data analysis (EDA) using pandas , matplotlib and seaborn libraries
+- Improved customer experience by identifying potenntial customers across fdifferent states, occupation , gender and age groups
+- Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands.
+- 
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/shaquib01/Python_Diwali_Sales_Analysis.git`
